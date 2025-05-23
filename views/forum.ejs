@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <!-- this allows me to use icons from third party -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <title><%= title %></title>
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h3><a href="/">MS</a></h3>
+        <div class="menu">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/work">Work</a>
+          <a href="/contact">Contact</a>
+          <a class="isActive" href="/forum">Forum</a>
+          <a href="/logout">Logout</a>
+        </div>
+        <!-- Mobile navbar -->
+        <button class="hamburger">
+          <span class="material-icons">menu</span>
+        </button>
+      </nav>
+
+      <div class="mobile-menu">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/work">Work</a>
+        <a href="/contact">Contact</a>
+        <a href="/forum">Forum</a>
+        <a href="/logout">Logout</a>
+      </div>
+    </header>
+
+    <div class="forum-container">
+      <div class="forum-header-container">
+        <h2 class="forum-header">Forum</h2>
+        <button class="search-toggle" data-toggle="search">
+          <span class="material-icons">search</span>
+        </button>
+      </div>
+
+      <div id="messageContainer">
+        <% if (locals.error && typeof error === 'string' && error.length > 0) {
+        %>
+        <div class="error-message"><%= error %></div>
+        <% } %> <% if (locals.success && typeof success === 'string' &&
+        success.length > 0) { %>
+        <div class="success-message"><%= success %></div>
+        <% } %>
+      </div>
+
+      <div class="forum-search" id="searchBar" style="display: none">
+        <form action="/search" method="GET">
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+          <input
+            type="text"
+            name="query"
+            placeholder="Search for posts..."
+            value="<%= locals.searchQuery || '' %>"
+          />
+          <button type="submit">Search</button>
+        </form>
+      </div>
+
+      <!-- New Post Form -->
+      <div class="new-post-form">
+        <form action="/forum" method="POST">
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+          <textarea
+            name="content"
+            placeholder="Write your post here..."
+            required
+          ></textarea>
+          <% if (locals.errors && errors.length > 0) { %>
+          <div class="error-message">
+            <% errors.forEach(function(error) { %>
+            <p><%= error.msg %></p>
+            <% }); %>
+          </div>
+          <% } %>
+          <button type="submit">Post</button>
+        </form>
+      </div>
+
+      <!-- Display Existing Posts -->
+      <% if (posts && posts.length > 0) { %> <% posts.forEach(function(post) {
+      %>
+      <div class="post-box">
+        <div class="post-header">
+          <h4><%= post.username %></h4>
+          <span class="post-date"><%= post.formatted_date %></span>
+        </div>
+        <p><%= post.content %></p>
+      </div>
+      <% }); %> <% } else { %>
+      <div class="no-posts">
+        <p>No posts found. Be the first to post!</p>
+      </div>
+      <% } %>
+    </div>
+
+    <script>
+      function toggleSearch() {
+        console.log("working");
+        const searchBar = document.getElementById("searchBar");
+        const searchToggle = document.querySelector(".search-toggle");
+
+        if (searchBar.style.display === "none") {
+          searchBar.style.display = "block";
+          searchToggle.classList.add("active");
+          searchBar.querySelector("input").focus();
+        } else {
+          searchBar.style.display = "none";
+          searchToggle.classList.remove("active");
+        }
+      }
+
+      // Close search bar when clicking outside
+      document.addEventListener("click", function (event) {
+        const searchBar = document.getElementById("searchBar");
+        const searchToggle = document.querySelector(".search-toggle");
+
+        if (
+          !searchBar.contains(event.target) &&
+          !searchToggle.contains(event.target)
+        ) {
+          searchBar.style.display = "none";
+          searchToggle.classList.remove("active");
+        }
+      });
+    </script>
+    <script src="/main.js"></script>
+  </body>
+</html>

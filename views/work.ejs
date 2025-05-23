@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects</title>
+    <link rel="stylesheet" href="/main.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <!-- this allows me to use icons from third party -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <!-- navbar -->
+      <nav>
+        <h3><a href="/">MS</a></h3>
+        <div class="menu">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a class="isActive" href="/work">Work</a>
+          <a href="/contact">Contact</a>
+          <a href="/forum">Forum</a>
+          <a href="/signup">Sign Up</a>
+        </div>
+        <!-- mobile menu -->
+        <button class="hamburger">
+          <span class="material-icons">menu</span>
+        </button>
+      </nav>
+      <div class="mobile-menu">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/work">Work</a>
+        <a href="/contact">Contact</a>
+        <a href="/forum">Forum</a>
+        <a href="/signup">Sign Up</a>
+      </div>
+    </header>
+    <div class="work">
+      <div class="work-header">
+        <h1 class="title">Projects</h1>
+        <p class="work-subtitle">
+          Explore my latest work and personal projects
+        </p>
+      </div>
+
+      <div class="work-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="game">Games</button>
+        <button class="filter-btn" data-filter="web">Web</button>
+        <button class="filter-btn" data-filter="ml">Machine Learning</button>
+      </div>
+
+      <div class="workContainer">
+        <!-- Trading Bot Project -->
+        <div class="projectContainer" data-category="ml">
+          <div class="projectImage">
+            <img src="/imgs/dashboard.png" alt="Trading Bot Dashboard" />
+            <div class="projectOverlay">
+              <div class="project-links">
+                <a
+                  href="/trading-bot"
+                  class="projectButton"
+                  role="button"
+                  tabindex="0"
+                >
+                  View Project
+                </a>
+                <a
+                  href="#"
+                  class="projectButton secondary"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span class="material-icons">code</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="gameText">
+            <h3>Algorithmic Trading Bot</h3>
+            <p class="tech">
+              Technologies used: <span>Python</span>, <span>XGBoost</span>,
+              <span>Machine Learning</span>
+            </p>
+            <p class="gameInfo">
+              <span
+                >An advanced trading bot using machine learning and technical
+                analysis to make automated trading decisions.</span
+              >
+              <span
+                >The system uses XGBoost for price prediction and implements
+                various technical indicators for trade signals.</span
+              >
+              <span
+                >Features real-time market data processing and automated trade
+                execution.</span
+              >
+            </p>
+          </div>
+        </div>
+
+        <!-- Astro Jump Project -->
+        <div class="projectContainer" data-category="game">
+          <div class="projectImage">
+            <img
+              src="/imgs/astrojump.png"
+              alt="Astro Jump game thumbnail"
+              loading="lazy"
+            />
+            <div class="projectOverlay">
+              <div class="project-links">
+                <a
+                  href="https://demixelord.itch.io/astro-jump"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="projectButton"
+                  role="button"
+                  tabindex="0"
+                >
+                  Play Game <span class="material-icons">open_in_new</span>
+                </a>
+                <a
+                  href="#"
+                  class="projectButton secondary"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span class="material-icons">code</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="gameText">
+            <h3>ASTRO JUMP</h3>
+            <p class="tech">
+              Technologies used: <span>Unity</span>, <span>C#</span>
+            </p>
+            <p class="gameInfo">
+              <span
+                >This is an endless runner game where I worked on both art and
+                programming for the game.</span
+              >
+              <span
+                >The background is a seamlessly endless animation I created to
+                make the whole game feel actually endless.</span
+              >
+              <span
+                >Uploaded the game as webGL so users can play it on the website
+                instead of downloading it.</span
+              >
+            </p>
+          </div>
+        </div>
+
+        <!-- No Escape Project -->
+        <div class="projectContainer" data-category="game">
+          <div class="projectImage">
+            <img
+              src="/imgs/noEscape.png"
+              alt="No Escape game thumbnail"
+              loading="lazy"
+            />
+            <div class="projectOverlay">
+              <div class="project-links">
+                <a
+                  href="https://dujafelsa.itch.io/no-escape"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="projectButton"
+                  role="button"
+                  tabindex="0"
+                >
+                  Play Game <span class="material-icons">open_in_new</span>
+                </a>
+                <a
+                  href="#"
+                  class="projectButton secondary"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span class="material-icons">code</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="gameText">
+            <h3>No Escape</h3>
+            <p class="tech">
+              Technologies used: <span>Unity</span>, <span>C#</span>
+            </p>
+            <p class="gameInfo">
+              <span
+                >A korean inspired horror escape game, where the players goal is
+                to escape the house without getting caught by the virgin
+                Ghost</span
+              >
+              <span
+                >Main programmer for this game and worked on the inventory
+                system and the making of the various puzzle</span
+              >
+              <span
+                >Enemy uses pathfinding to chase the player once it is in the
+                enemies path of view.</span
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      // Project filtering
+      const filterButtons = document.querySelectorAll(".filter-btn");
+      const projects = document.querySelectorAll(".projectContainer");
+
+      filterButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          // Update active button
+          filterButtons.forEach((btn) => btn.classList.remove("active"));
+          button.classList.add("active");
+
+          const filter = button.dataset.filter;
+
+          // Filter projects
+          projects.forEach((project) => {
+            if (filter === "all" || project.dataset.category === filter) {
+              project.style.display = "block";
+              setTimeout(() => (project.style.opacity = "1"), 50);
+            } else {
+              project.style.opacity = "0";
+              setTimeout(() => (project.style.display = "none"), 300);
+            }
+          });
+        });
+      });
+
+      // Intersection Observer for fade-in animation
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add("fade-in");
+            }
+          });
+        },
+        { threshold: 0.1 }
+      );
+
+      projects.forEach((project) => observer.observe(project));
+    </script>
+    <script src="/main.js"></script>
+  </body>
+</html>

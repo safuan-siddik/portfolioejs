@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <!-- this allows me to use icons from third party -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <title>Contact</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h3><a href="/">MS</a></h3>
+        <div class="menu">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/work">Work</a>
+          <a class="isActive" href="/contact">Contact</a>
+          <a href="/forum">Forum</a>
+          <a href="/signup">Sign Up</a>
+        </div>
+        <button class="hamburger">
+          <span class="material-icons">menu</span>
+        </button>
+      </nav>
+      <div class="mobile-menu">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/work">Work</a>
+        <a href="/contact">Contact</a>
+        <a href="/forum">Forum</a>
+        <a href="/signup">Sign Up</a>
+      </div>
+    </header>
+    <div class="contact">
+      <h3 class="title">Contact Me</h3>
+      <div class="contactForm">
+        <form action="/contact" method="post">
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>" />
+          <!-- directs the information to formspree -->
+          <input type="text" name="name" placeholder="Your Name" />
+          <input type="email" name="email" placeholder="Your Email" />
+          <input type="text" name="subject" placeholder="Your Subject" />
+          <textarea
+            cols="30"
+            rows="10"
+            name="message"
+            placeholder="Write Message Here..."
+          ></textarea>
+          <button type="submit" class="contactButton">Send</button>
+        </form>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

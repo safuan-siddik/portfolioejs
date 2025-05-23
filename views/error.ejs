@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/main.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h3><a href="/">MS</a></h3>
+        <div class="menu">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/work">Work</a>
+          <a href="/contact">Contact</a>
+          <a href="/forum">Forum</a>
+          <% if (locals.user) { %>
+          <a href="/logout">Logout</a>
+          <% } else { %>
+          <a href="/signup">Sign Up</a>
+          <% } %>
+        </div>
+        <button class="hamburger">
+          <span class="material-icons">menu</span>
+        </button>
+      </nav>
+      <div class="mobile-menu">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/work">Work</a>
+        <a href="/contact">Contact</a>
+        <a href="/forum">Forum</a>
+        <% if (locals.user) { %>
+        <a href="/logout">Logout</a>
+        <% } else { %>
+        <a href="/signup">Sign Up</a>
+        <% } %>
+      </div>
+    </header>
+
+    <div class="error-container">
+      <h1><%= title %></h1>
+      <p class="error-message"><%= message %></p>
+      <% if (error && Object.keys(error).length > 0 && process.env.NODE_ENV ===
+      'development') { %>
+      <div class="error-details">
+        <h2>Error Details:</h2>
+        <pre><%= JSON.stringify(error, null, 2) %></pre>
+      </div>
+      <% } %>
+      <div class="error-actions">
+        <a href="/" class="btn">Return to Home</a>
+        <button onclick="history.back()" class="btn btn-secondary">
+          Go Back
+        </button>
+      </div>
+    </div>
+
+    <script src="/main.js"></script>
+  </body>
+</html>
