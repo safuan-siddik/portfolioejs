@@ -1,0 +1,12 @@
+{
+  "backtest_id": "backtest_20250723_051842",
+  "start_date": "2023-07-01",
+  "end_date": "2024-12-31",
+  "initial_capital": 10000,
+  "final_capital": 10593.620162963867,
+  "cash": 3652.5901947021484,
+  "positions": {
+    "AAPL": {
+      "shares": 10,
+      "entry_price": 242.6499938964844,
+      "entry_date": 

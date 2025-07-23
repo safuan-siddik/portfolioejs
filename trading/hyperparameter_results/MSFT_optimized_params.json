@@ -1,0 +1,30 @@
+{
+    "lstm": {
+        "hidden_size": 16,
+        "num_layers": 1,
+        "dropout": 0.14271269482306936,
+        "learning_rate": 0.021576112514531058,
+        "batch_size": 8,
+        "sequence_length": 45
+    },
+    "nn": {
+        "hidden_size": 96,
+        "learning_rate": 0.015114462612287338,
+        "batch_size": 16,
+        "sequence_length": 35
+    },
+    "xgb": {
+        "n_estimators": 248,
+        "max_depth": 7,
+        "learning_rate": 0.17677042329757697,
+        "subsample": 0.778868085186472,
+        "colsample_bytree": 0.9068256243344184,
+        "min_child_weight": 6,
+        "sequence_length": 30
+    },
+    "ensemble": {
+        "lstm_weight": 0.5283904414591194,
+        "nn_weight": 0.6801678500413161,
+        "xgb_weight": 0.584064812014248
+    }
+}

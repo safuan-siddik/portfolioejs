@@ -1,3 +1,9 @@
+html,
+body {
+  height: 100%;
+  overflow-y: auto;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -412,7 +418,7 @@ nav h3:hover::before {
 
 /* Work Page Styles */
 .work {
-  padding: 6rem 1rem 2rem;
+  padding: 10rem 1rem 2rem;
   min-height: 100vh;
   background: linear-gradient(
     to bottom,
@@ -1556,14 +1562,14 @@ form button:hover {
 }
 
 /* Remove grid styles from workContainer on the trading bot page */
-.trading-bot-page .work .workContainer {
+body.trading-bot-page .work .workContainer {
   display: block; /* Change display from grid */
   gap: 0; /* Remove gap */
   padding: 0; /* Remove padding */
 }
 
 /* Ensure content within projectContainer takes full width */
-.trading-bot-page .work .workContainer .projectContainer > div {
+body.trading-bot-page .work .workContainer .projectContainer > div {
   width: 100%;
 }
 

@@ -1,0 +1,17 @@
+ENHANCED TRADING BOT PERFORMANCE REPORT
+==================================================
+
+Report Generated: 2025-07-23 01:20:14
+Backtest Period: 2024-07-23 to 2025-05-24
+
+KEY METRICS:
+Total Return: 0.87%
+Sharpe Ratio: -0.00
+Max Drawdown: 68.22%
+Win Rate: 20.00%
+Total Trades: 5
+
+RECOMMENDATIONS:
+- Consider adjusting entry conditions for better signal quality
+- Implement stricter risk management and position sizing
+- Review exit conditions and profit-taking strategy

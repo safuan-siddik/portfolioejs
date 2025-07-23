@@ -1,0 +1,3349 @@
+{
+    "backtest_id": "backtest_20250723_002128",
+    "start_date": "2023-07-24",
+    "end_date": "2025-07-23",
+    "initial_capital": 10000,
+    "final_capital": 10454.760223388672,
+    "cash": 9698.160232543945,
+    "positions": {
+        "AAPL": {
+            "shares": 3,
+            "entry_price": 254.4900054931641,
+            "entry_date": "2024-12-20 00:00:00"
+        }
+    },
+    "trades": [
+        {
+            "date": "2023-07-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 193.6199951171875
+        },
+        {
+            "date": "2023-08-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.1699981689453,
+            "pnl": -12.249984741210938
+        },
+        {
+            "date": "2023-08-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 181.1199951171875
+        },
+        {
+            "date": "2023-08-23 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 327.0
+        },
+        {
+            "date": "2023-08-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 132.3699951171875
+        },
+        {
+            "date": "2023-08-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 176.3800048828125,
+            "pnl": -23.699951171875
+        },
+        {
+            "date": "2023-08-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 319.9700012207031,
+            "pnl": -21.089996337890625
+        },
+        {
+            "date": "2023-08-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 129.77999877929688,
+            "pnl": -18.129974365234375
+        },
+        {
+            "date": "2023-08-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 176.3800048828125
+        },
+        {
+            "date": "2023-08-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 319.9700012207031
+        },
+        {
+            "date": "2023-08-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 180.19000244140625,
+            "pnl": 19.04998779296875
+        },
+        {
+            "date": "2023-08-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 131.00999450683594
+        },
+        {
+            "date": "2023-08-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 328.4100036621094,
+            "pnl": 25.32000732421875
+        },
+        {
+            "date": "2023-08-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 134.57000732421875,
+            "pnl": 24.920089721679688
+        },
+        {
+            "date": "2023-08-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 184.1199951171875
+        },
+        {
+            "date": "2023-08-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 328.4100036621094
+        },
+        {
+            "date": "2023-08-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 134.57000732421875
+        },
+        {
+            "date": "2023-08-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 187.8699951171875,
+            "pnl": 18.75
+        },
+        {
+            "date": "2023-08-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 187.8699951171875
+        },
+        {
+            "date": "2023-09-06 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 182.91000366210935,
+            "pnl": -24.79995727539074
+        },
+        {
+            "date": "2023-09-06 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 182.91000366210935
+        },
+        {
+            "date": "2023-09-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 177.55999755859375,
+            "pnl": -26.75003051757801
+        },
+        {
+            "date": "2023-09-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 337.94000244140625,
+            "pnl": 28.589996337890625
+        },
+        {
+            "date": "2023-09-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 337.94000244140625
+        },
+        {
+            "date": "2023-09-12 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 331.7699890136719,
+            "pnl": -12.34002685546875
+        },
+        {
+            "date": "2023-09-12 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 331.7699890136719
+        },
+        {
+            "date": "2023-09-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 138.10000610351562,
+            "pnl": 24.709991455078125
+        },
+        {
+            "date": "2023-09-14 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 338.70001220703125,
+            "pnl": 20.790069580078125
+        },
+        {
+            "date": "2023-09-14 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 338.70001220703125
+        },
+        {
+            "date": "2023-09-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.10000610351562
+        },
+        {
+            "date": "2023-09-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 330.2200012207031,
+            "pnl": -16.96002197265625
+        },
+        {
+            "date": "2023-09-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 330.2200012207031
+        },
+        {
+            "date": "2023-09-20 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 133.74000549316406,
+            "pnl": -30.520004272460938
+        },
+        {
+            "date": "2023-09-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 320.7699890136719,
+            "pnl": -28.35003662109375
+        },
+        {
+            "date": "2023-10-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 135.24000549316406
+        },
+        {
+            "date": "2023-10-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.91000366210938
+        },
+        {
+            "date": "2023-10-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 327.260009765625
+        },
+        {
+            "date": "2023-10-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 138.4199981689453,
+            "pnl": 22.25994873046875
+        },
+        {
+            "date": "2023-10-09 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.99000549316406,
+            "pnl": 20.400009155273438
+        },
+        {
+            "date": "2023-10-09 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 178.99000549316406
+        },
+        {
+            "date": "2023-10-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.4199981689453
+        },
+        {
+            "date": "2023-10-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 177.14999389648438,
+            "pnl": -9.200057983398438
+        },
+        {
+            "date": "2023-10-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 177.14999389648438
+        },
+        {
+            "date": "2023-10-20 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 135.60000610351562,
+            "pnl": -19.739944458007812
+        },
+        {
+            "date": "2023-10-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 172.8800048828125,
+            "pnl": -21.349945068359375
+        },
+        {
+            "date": "2023-10-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 340.6700134277344,
+            "pnl": 40.230010986328125
+        },
+        {
+            "date": "2023-10-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 340.6700134277344
+        },
+        {
+            "date": "2023-10-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 327.8900146484375,
+            "pnl": -25.55999755859375
+        },
+        {
+            "date": "2023-10-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 327.8900146484375
+        },
+        {
+            "date": "2023-10-30 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 337.3099975585937,
+            "pnl": 28.259948730468523
+        },
+        {
+            "date": "2023-10-30 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 337.3099975585937
+        },
+        {
+            "date": "2023-11-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 346.07000732421875,
+            "pnl": 17.520019531250114
+        },
+        {
+            "date": "2023-11-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 346.07000732421875
+        },
+        {
+            "date": "2023-11-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 177.57000732421875
+        },
+        {
+            "date": "2023-11-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 356.5299987792969,
+            "pnl": 20.91998291015625
+        },
+        {
+            "date": "2023-11-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 356.5299987792969
+        },
+        {
+            "date": "2023-11-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 181.82000732421875,
+            "pnl": 21.25
+        },
+        {
+            "date": "2023-11-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 181.82000732421875
+        },
+        {
+            "date": "2023-11-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 131.83999633789062
+        },
+        {
+            "date": "2023-11-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 130.24000549316406,
+            "pnl": -11.199935913085938
+        },
+        {
+            "date": "2023-11-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 130.24000549316406
+        },
+        {
+            "date": "2023-11-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 369.6700134277344,
+            "pnl": 26.280029296875
+        },
+        {
+            "date": "2023-11-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 186.3999938964844,
+            "pnl": 22.89993286132824
+        },
+        {
+            "date": "2023-11-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 186.3999938964844
+        },
+        {
+            "date": "2023-11-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 369.6700134277344
+        },
+        {
+            "date": "2023-11-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 133.6199951171875,
+            "pnl": 23.659927368164062
+        },
+        {
+            "date": "2023-11-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 133.6199951171875
+        },
+        {
+            "date": "2023-11-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 136.92999267578125,
+            "pnl": 23.16998291015625
+        },
+        {
+            "date": "2023-11-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 136.92999267578125
+        },
+        {
+            "date": "2023-11-17 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 135.30999755859375,
+            "pnl": -11.3399658203125
+        },
+        {
+            "date": "2023-11-17 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 135.30999755859375
+        },
+        {
+            "date": "2023-11-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.4499969482422,
+            "pnl": 25.25001525878895
+        },
+        {
+            "date": "2023-11-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 377.4400024414063,
+            "pnl": 15.539978027343864
+        },
+        {
+            "date": "2023-11-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 191.4499969482422
+        },
+        {
+            "date": "2023-11-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 377.4400024414063
+        },
+        {
+            "date": "2023-11-21 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 373.0700073242188,
+            "pnl": -8.739990234375
+        },
+        {
+            "date": "2023-11-21 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 373.0700073242188
+        },
+        {
+            "date": "2023-11-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 138.49000549316406,
+            "pnl": 22.260055541992188
+        },
+        {
+            "date": "2023-11-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.49000549316406
+        },
+        {
+            "date": "2023-11-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 136.69000244140625,
+            "pnl": -12.600021362304688
+        },
+        {
+            "date": "2023-11-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 136.69000244140625
+        },
+        {
+            "date": "2023-11-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 382.7000122070313,
+            "pnl": 19.260009765625
+        },
+        {
+            "date": "2023-11-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 382.7000122070313
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 189.3699951171875,
+            "pnl": -10.400009155273438
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 134.99000549316406,
+            "pnl": -11.899978637695312
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 378.8500061035156,
+            "pnl": -7.700012207031364
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 189.3699951171875
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 378.8500061035156
+        },
+        {
+            "date": "2023-11-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 134.99000549316406
+        },
+        {
+            "date": "2023-11-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 132.52999877929688,
+            "pnl": -17.220046997070312
+        },
+        {
+            "date": "2023-12-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 374.510009765625,
+            "pnl": -8.67999267578125
+        },
+        {
+            "date": "2023-12-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 193.4199981689453,
+            "pnl": 20.250015258789062
+        },
+        {
+            "date": "2023-12-08 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 195.7100067138672
+        },
+        {
+            "date": "2023-12-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 193.17999267578125,
+            "pnl": -12.650070190429688
+        },
+        {
+            "date": "2023-12-13 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 197.9600067138672
+        },
+        {
+            "date": "2023-12-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 195.88999938964844,
+            "pnl": -10.35003662109375
+        },
+        {
+            "date": "2023-12-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 195.88999938964844
+        },
+        {
+            "date": "2023-12-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 135.8000030517578
+        },
+        {
+            "date": "2023-12-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 140.4199981689453,
+            "pnl": 32.3399658203125
+        },
+        {
+            "date": "2023-12-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 140.4199981689453
+        },
+        {
+            "date": "2023-12-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 193.6000061035156,
+            "pnl": -11.449966430664176
+        },
+        {
+            "date": "2024-01-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 138.1699981689453,
+            "pnl": -15.75
+        },
+        {
+            "date": "2024-01-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.1699981689453
+        },
+        {
+            "date": "2024-01-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 136.38999938964844,
+            "pnl": -12.459991455078125
+        },
+        {
+            "date": "2024-01-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 382.7699890136719
+        },
+        {
+            "date": "2024-01-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 142.27999877929688
+        },
+        {
+            "date": "2024-01-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 393.8699951171875,
+            "pnl": 22.20001220703125
+        },
+        {
+            "date": "2024-01-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 188.6300048828125
+        },
+        {
+            "date": "2024-01-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 393.8699951171875
+        },
+        {
+            "date": "2024-01-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 146.3800048828125,
+            "pnl": 28.700042724609375
+        },
+        {
+            "date": "2024-01-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 146.3800048828125
+        },
+        {
+            "date": "2024-01-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 193.88999938964844,
+            "pnl": 26.299972534179688
+        },
+        {
+            "date": "2024-01-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 193.88999938964844
+        },
+        {
+            "date": "2024-01-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 402.55999755859375,
+            "pnl": 17.3800048828125
+        },
+        {
+            "date": "2024-01-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 402.55999755859375
+        },
+        {
+            "date": "2024-01-25 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 151.8699951171875,
+            "pnl": 32.93994140625
+        },
+        {
+            "date": "2024-01-25 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 151.8699951171875
+        },
+        {
+            "date": "2024-01-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.72999572753903,
+            "pnl": -10.800018310546989
+        },
+        {
+            "date": "2024-01-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 191.72999572753903
+        },
+        {
+            "date": "2024-01-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 188.0399932861328,
+            "pnl": -18.450012207031136
+        },
+        {
+            "date": "2024-01-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 188.0399932861328
+        },
+        {
+            "date": "2024-01-31 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 397.5799865722656,
+            "pnl": -9.96002197265625
+        },
+        {
+            "date": "2024-01-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 140.10000610351562,
+            "pnl": -70.61993408203125
+        },
+        {
+            "date": "2024-01-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 184.3999938964844,
+            "pnl": -18.199996948242074
+        },
+        {
+            "date": "2024-01-31 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 397.5799865722656
+        },
+        {
+            "date": "2024-02-02 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 411.2200012207031,
+            "pnl": 27.280029296875
+        },
+        {
+            "date": "2024-02-02 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 411.2200012207031
+        },
+        {
+            "date": "2024-02-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 405.6499938964844,
+            "pnl": -11.1400146484375
+        },
+        {
+            "date": "2024-02-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 405.6499938964844
+        },
+        {
+            "date": "2024-02-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 414.0499877929688,
+            "pnl": 16.799987792968864
+        },
+        {
+            "date": "2024-02-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 414.0499877929688
+        },
+        {
+            "date": "2024-02-13 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 406.3200073242188,
+            "pnl": -15.4599609375
+        },
+        {
+            "date": "2024-03-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 415.5
+        },
+        {
+            "date": "2024-03-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 402.6499938964844,
+            "pnl": -25.70001220703125
+        },
+        {
+            "date": "2024-03-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 139.7899932861328
+        },
+        {
+            "date": "2024-03-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 143.10000610351562,
+            "pnl": 23.170089721679688
+        },
+        {
+            "date": "2024-03-14 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 425.2200012207031
+        },
+        {
+            "date": "2024-03-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 143.10000610351562
+        },
+        {
+            "date": "2024-03-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 416.4200134277344,
+            "pnl": -17.5999755859375
+        },
+        {
+            "date": "2024-03-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 141.17999267578125,
+            "pnl": -11.52008056640625
+        },
+        {
+            "date": "2024-03-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 416.4200134277344
+        },
+        {
+            "date": "2024-03-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 141.17999267578125
+        },
+        {
+            "date": "2024-03-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 147.67999267578125,
+            "pnl": 45.5
+        },
+        {
+            "date": "2024-03-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 173.72000122070312
+        },
+        {
+            "date": "2024-03-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 147.67999267578125
+        },
+        {
+            "date": "2024-03-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 425.2300109863281,
+            "pnl": 17.6199951171875
+        },
+        {
+            "date": "2024-03-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.6699981689453,
+            "pnl": 24.749984741210938
+        },
+        {
+            "date": "2024-03-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 178.6699981689453
+        },
+        {
+            "date": "2024-03-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 425.2300109863281
+        },
+        {
+            "date": "2024-03-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 171.3699951171875,
+            "pnl": -36.50001525878906
+        },
+        {
+            "date": "2024-03-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 171.3699951171875
+        },
+        {
+            "date": "2024-03-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 150.77000427246094,
+            "pnl": 18.540069580078125
+        },
+        {
+            "date": "2024-03-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 150.77000427246094
+        },
+        {
+            "date": "2024-03-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 420.7200012207031,
+            "pnl": -9.02001953125
+        },
+        {
+            "date": "2024-04-01 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 155.49000549316406,
+            "pnl": 28.32000732421875
+        },
+        {
+            "date": "2024-04-01 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 155.49000549316406
+        },
+        {
+            "date": "2024-04-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 168.83999633789062,
+            "pnl": -12.649993896484375
+        },
+        {
+            "date": "2024-04-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 168.83999633789062
+        },
+        {
+            "date": "2024-04-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 150.52999877929688,
+            "pnl": -29.760040283203125
+        },
+        {
+            "date": "2024-04-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 150.52999877929688
+        },
+        {
+            "date": "2024-04-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 154.85000610351562,
+            "pnl": 25.9200439453125
+        },
+        {
+            "date": "2024-04-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 154.85000610351562
+        },
+        {
+            "date": "2024-04-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 175.0399932861328,
+            "pnl": 30.999984741210938
+        },
+        {
+            "date": "2024-04-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 159.41000366210938,
+            "pnl": 27.3599853515625
+        },
+        {
+            "date": "2024-04-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 175.0399932861328
+        },
+        {
+            "date": "2024-04-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 159.41000366210938
+        },
+        {
+            "date": "2024-04-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 157.72999572753906,
+            "pnl": -10.080047607421875
+        },
+        {
+            "date": "2024-04-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 157.72999572753906
+        },
+        {
+            "date": "2024-04-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 172.69000244140625,
+            "pnl": -11.749954223632812
+        },
+        {
+            "date": "2024-04-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 154.86000061035156,
+            "pnl": -17.219970703125
+        },
+        {
+            "date": "2024-04-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 172.69000244140625
+        },
+        {
+            "date": "2024-04-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 154.86000061035156
+        },
+        {
+            "date": "2024-04-16 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 169.3800048828125,
+            "pnl": -16.54998779296875
+        },
+        {
+            "date": "2024-04-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 168.0
+        },
+        {
+            "date": "2024-04-19 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 165.0,
+            "pnl": -15.0
+        },
+        {
+            "date": "2024-04-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 158.25999450683594,
+            "pnl": 20.39996337890625
+        },
+        {
+            "date": "2024-04-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 169.88999938964844
+        },
+        {
+            "date": "2024-04-26 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 171.9499969482422
+        },
+        {
+            "date": "2024-04-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 173.5,
+            "pnl": 18.050003051757812
+        },
+        {
+            "date": "2024-04-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 166.14999389648438,
+            "pnl": -29.000015258789062
+        },
+        {
+            "date": "2024-04-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 173.5
+        },
+        {
+            "date": "2024-04-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 166.14999389648438
+        },
+        {
+            "date": "2024-04-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 170.3300018310547,
+            "pnl": -15.849990844726562
+        },
+        {
+            "date": "2024-04-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 162.77999877929688,
+            "pnl": -20.219970703125
+        },
+        {
+            "date": "2024-04-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 170.3300018310547
+        },
+        {
+            "date": "2024-04-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 162.77999877929688
+        },
+        {
+            "date": "2024-05-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 166.6199951171875,
+            "pnl": 23.03997802734375
+        },
+        {
+            "date": "2024-05-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 166.6199951171875
+        },
+        {
+            "date": "2024-05-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 183.3800048828125,
+            "pnl": 65.25001525878906
+        },
+        {
+            "date": "2024-05-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 183.3800048828125
+        },
+        {
+            "date": "2024-05-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 413.5400085449219
+        },
+        {
+            "date": "2024-05-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 171.25,
+            "pnl": 27.780029296875
+        },
+        {
+            "date": "2024-05-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 409.3399963378906,
+            "pnl": -8.4000244140625
+        },
+        {
+            "date": "2024-05-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 409.3399963378906
+        },
+        {
+            "date": "2024-05-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 171.25
+        },
+        {
+            "date": "2024-05-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 169.3800048828125,
+            "pnl": -9.3499755859375
+        },
+        {
+            "date": "2024-05-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 169.3800048828125
+        },
+        {
+            "date": "2024-05-14 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 187.42999267578125,
+            "pnl": 20.24993896484375
+        },
+        {
+            "date": "2024-05-14 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 187.42999267578125
+        },
+        {
+            "date": "2024-05-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 423.0799865722656,
+            "pnl": 27.47998046875
+        },
+        {
+            "date": "2024-05-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 423.0799865722656
+        },
+        {
+            "date": "2024-05-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 174.17999267578125,
+            "pnl": 23.99993896484375
+        },
+        {
+            "date": "2024-05-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.17999267578125
+        },
+        {
+            "date": "2024-05-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 192.3500061035156,
+            "pnl": 24.60006713867176
+        },
+        {
+            "date": "2024-05-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 177.85000610351562,
+            "pnl": 18.350067138671875
+        },
+        {
+            "date": "2024-05-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 192.3500061035156
+        },
+        {
+            "date": "2024-05-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 177.85000610351562
+        },
+        {
+            "date": "2024-05-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 186.8800048828125,
+            "pnl": -27.35000610351551
+        },
+        {
+            "date": "2024-05-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 173.5500030517578,
+            "pnl": -21.500015258789062
+        },
+        {
+            "date": "2024-05-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 186.8800048828125
+        },
+        {
+            "date": "2024-05-30 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 414.6700134277344,
+            "pnl": -16.8199462890625
+        },
+        {
+            "date": "2024-05-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.2899932861328,
+            "pnl": 22.049942016601562
+        },
+        {
+            "date": "2024-06-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 195.8699951171875
+        },
+        {
+            "date": "2024-06-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 193.1199951171875,
+            "pnl": -13.75
+        },
+        {
+            "date": "2024-06-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 207.1499938964844
+        },
+        {
+            "date": "2024-06-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 432.6799926757813
+        },
+        {
+            "date": "2024-06-12 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 213.07000732421875,
+            "pnl": 23.680053710937386
+        },
+        {
+            "date": "2024-06-12 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 213.07000732421875
+        },
+        {
+            "date": "2024-06-13 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 441.5799865722656,
+            "pnl": 17.799987792968636
+        },
+        {
+            "date": "2024-06-13 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 441.5799865722656
+        },
+        {
+            "date": "2024-06-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 209.67999267578125,
+            "pnl": -13.56005859375
+        },
+        {
+            "date": "2024-06-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 209.67999267578125
+        },
+        {
+            "date": "2024-06-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 207.4900054931641,
+            "pnl": -8.759948730468636
+        },
+        {
+            "date": "2024-06-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 207.4900054931641
+        },
+        {
+            "date": "2024-06-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 450.9500122070313,
+            "pnl": 18.740051269531364
+        },
+        {
+            "date": "2024-06-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 450.9500122070313
+        },
+        {
+            "date": "2024-06-25 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 184.02999877929688
+        },
+        {
+            "date": "2024-06-26 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 213.25,
+            "pnl": 23.039978027343636
+        },
+        {
+            "date": "2024-06-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 182.1499938964844,
+            "pnl": -9.400024414062386
+        },
+        {
+            "date": "2024-06-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 182.1499938964844
+        },
+        {
+            "date": "2024-07-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 220.2700042724609
+        },
+        {
+            "date": "2024-07-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 460.7699890136719,
+            "pnl": 19.639953613281136
+        },
+        {
+            "date": "2024-07-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 185.82000732421875,
+            "pnl": 18.35006713867176
+        },
+        {
+            "date": "2024-07-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 460.7699890136719
+        },
+        {
+            "date": "2024-07-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 185.82000732421875
+        },
+        {
+            "date": "2024-07-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 226.33999633789065,
+            "pnl": 24.279968261718977
+        },
+        {
+            "date": "2024-07-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 190.6000061035156,
+            "pnl": 23.89999389648426
+        },
+        {
+            "date": "2024-07-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 226.33999633789065
+        },
+        {
+            "date": "2024-07-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 190.6000061035156
+        },
+        {
+            "date": "2024-07-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 232.97999572753903,
+            "pnl": 26.559997558593523
+        },
+        {
+            "date": "2024-07-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 232.97999572753903
+        },
+        {
+            "date": "2024-07-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 454.7000122070313,
+            "pnl": -12.139953613281136
+        },
+        {
+            "date": "2024-07-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 185.57000732421875,
+            "pnl": -25.14999389648426
+        },
+        {
+            "date": "2024-07-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 227.57000732421875,
+            "pnl": -21.639953613281136
+        },
+        {
+            "date": "2024-07-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 227.57000732421875
+        },
+        {
+            "date": "2024-07-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 185.57000732421875
+        },
+        {
+            "date": "2024-07-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 234.3999938964844,
+            "pnl": 27.319946289062614
+        },
+        {
+            "date": "2024-07-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 234.3999938964844
+        },
+        {
+            "date": "2024-07-17 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 181.0200042724609,
+            "pnl": -22.750015258789176
+        },
+        {
+            "date": "2024-07-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 228.8800048828125,
+            "pnl": -22.079956054687614
+        },
+        {
+            "date": "2024-07-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 228.8800048828125
+        },
+        {
+            "date": "2024-07-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 224.17999267578125,
+            "pnl": -18.800048828125
+        },
+        {
+            "date": "2024-08-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 224.72000122070312
+        },
+        {
+            "date": "2024-08-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 421.0299987792969
+        },
+        {
+            "date": "2024-08-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 162.9600067138672
+        },
+        {
+            "date": "2024-08-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 166.6699981689453,
+            "pnl": 22.25994873046875
+        },
+        {
+            "date": "2024-08-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 166.6699981689453
+        },
+        {
+            "date": "2024-08-22 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 415.5499877929688,
+            "pnl": -10.960021972656136
+        },
+        {
+            "date": "2024-08-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 163.8000030517578,
+            "pnl": -14.3499755859375
+        },
+        {
+            "date": "2024-08-22 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 415.5499877929688
+        },
+        {
+            "date": "2024-08-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 165.6199951171875
+        },
+        {
+            "date": "2024-08-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 410.6000061035156,
+            "pnl": -9.899963378906364
+        },
+        {
+            "date": "2024-08-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 162.85000610351562,
+            "pnl": -16.61993408203125
+        },
+        {
+            "date": "2024-08-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 229.7899932861328,
+            "pnl": 20.27996826171875
+        },
+        {
+            "date": "2024-08-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 229.7899932861328
+        },
+        {
+            "date": "2024-08-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 413.1199951171875
+        },
+        {
+            "date": "2024-08-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 163.3800048828125
+        },
+        {
+            "date": "2024-09-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 222.7700042724609,
+            "pnl": -28.079956054687614
+        },
+        {
+            "date": "2024-09-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 157.36000061035156,
+            "pnl": -36.120025634765625
+        },
+        {
+            "date": "2024-09-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 222.7700042724609
+        },
+        {
+            "date": "2024-09-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 157.36000061035156
+        },
+        {
+            "date": "2024-09-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 408.8999938964844,
+            "pnl": -8.44000244140625
+        },
+        {
+            "date": "2024-09-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 408.8999938964844
+        },
+        {
+            "date": "2024-09-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 150.9199981689453,
+            "pnl": -38.6400146484375
+        },
+        {
+            "date": "2024-09-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 401.7000122070313,
+            "pnl": -14.399963378906136
+        },
+        {
+            "date": "2024-09-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 220.1100006103516,
+            "pnl": -10.640014648437273
+        },
+        {
+            "date": "2024-09-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 414.2000122070313
+        },
+        {
+            "date": "2024-09-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 423.0400085449219,
+            "pnl": 17.679992675781136
+        },
+        {
+            "date": "2024-09-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 423.0400085449219
+        },
+        {
+            "date": "2024-09-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 158.05999755859375
+        },
+        {
+            "date": "2024-09-17 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 435.1499938964844,
+            "pnl": 24.219970703125
+        },
+        {
+            "date": "2024-09-17 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 435.1499938964844
+        },
+        {
+            "date": "2024-09-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 162.13999938964844,
+            "pnl": 24.480010986328125
+        },
+        {
+            "date": "2024-09-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 162.13999938964844
+        },
+        {
+            "date": "2024-09-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 228.1999969482422
+        },
+        {
+            "date": "2024-09-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 429.1700134277344,
+            "pnl": -11.9599609375
+        },
+        {
+            "date": "2024-09-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 429.1700134277344
+        },
+        {
+            "date": "2024-09-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 165.85000610351562,
+            "pnl": 22.260040283203125
+        },
+        {
+            "date": "2024-09-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 233.0,
+            "pnl": 19.20001220703125
+        },
+        {
+            "date": "2024-09-30 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 233.0
+        },
+        {
+            "date": "2024-09-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 165.85000610351562
+        },
+        {
+            "date": "2024-10-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 420.6900024414063,
+            "pnl": -16.960021972656136
+        },
+        {
+            "date": "2024-10-01 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 226.2100067138672,
+            "pnl": -27.15997314453125
+        },
+        {
+            "date": "2024-10-01 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 226.2100067138672
+        },
+        {
+            "date": "2024-10-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 162.97999572753906,
+            "pnl": -17.220062255859375
+        },
+        {
+            "date": "2024-10-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 221.69000244140625,
+            "pnl": -18.08001708984375
+        },
+        {
+            "date": "2024-10-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 162.97999572753906
+        },
+        {
+            "date": "2024-10-10 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 229.0399932861328
+        },
+        {
+            "date": "2024-10-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 233.8500061035156,
+            "pnl": 19.240051269531136
+        },
+        {
+            "date": "2024-10-15 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 233.8500061035156
+        },
+        {
+            "date": "2024-10-22 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 427.510009765625
+        },
+        {
+            "date": "2024-10-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 230.75999450683597,
+            "pnl": -12.360046386718523
+        },
+        {
+            "date": "2024-10-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 230.75999450683597
+        },
+        {
+            "date": "2024-10-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 166.72000122070312,
+            "pnl": 22.440032958984375
+        },
+        {
+            "date": "2024-10-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 166.72000122070312
+        },
+        {
+            "date": "2024-10-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 174.4600067138672,
+            "pnl": 38.70002746582031
+        },
+        {
+            "date": "2024-10-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.4600067138672
+        },
+        {
+            "date": "2024-10-31 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 406.3500061035156,
+            "pnl": -42.32000732421875
+        },
+        {
+            "date": "2024-10-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 225.91000366210935,
+            "pnl": -19.399963378906477
+        },
+        {
+            "date": "2024-10-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 171.11000061035156,
+            "pnl": -16.750030517578125
+        },
+        {
+            "date": "2024-10-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 171.11000061035156
+        },
+        {
+            "date": "2024-11-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 169.24000549316406,
+            "pnl": -9.3499755859375
+        },
+        {
+            "date": "2024-11-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 169.24000549316406
+        },
+        {
+            "date": "2024-11-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 176.50999450683594,
+            "pnl": 36.349945068359375
+        },
+        {
+            "date": "2024-11-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 176.50999450683594
+        },
+        {
+            "date": "2024-11-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 180.75,
+            "pnl": 21.200027465820312
+        },
+        {
+            "date": "2024-11-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 180.75
+        },
+        {
+            "date": "2024-11-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.35000610351562,
+            "pnl": -11.999969482421875
+        },
+        {
+            "date": "2024-11-08 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 422.5400085449219
+        },
+        {
+            "date": "2024-11-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 178.35000610351562
+        },
+        {
+            "date": "2024-11-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 418.010009765625,
+            "pnl": -9.05999755859375
+        },
+        {
+            "date": "2024-11-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 418.010009765625
+        },
+        {
+            "date": "2024-11-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 175.5800018310547,
+            "pnl": -13.850021362304688
+        },
+        {
+            "date": "2024-11-14 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 426.8900146484375,
+            "pnl": 17.760009765625
+        },
+        {
+            "date": "2024-11-14 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 426.8900146484375
+        },
+        {
+            "date": "2024-11-14 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 175.5800018310547
+        },
+        {
+            "date": "2024-11-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 415.0,
+            "pnl": -23.780029296875
+        },
+        {
+            "date": "2024-11-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 172.49000549316406,
+            "pnl": -15.449981689453125
+        },
+        {
+            "date": "2024-11-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 415.0
+        },
+        {
+            "date": "2024-11-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 172.49000549316406
+        },
+        {
+            "date": "2024-11-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 228.0200042724609
+        },
+        {
+            "date": "2024-11-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.1199951171875,
+            "pnl": 28.149948120117188
+        },
+        {
+            "date": "2024-11-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 232.8699951171875,
+            "pnl": 19.399963378906364
+        },
+        {
+            "date": "2024-11-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 232.8699951171875
+        },
+        {
+            "date": "2024-11-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 427.989990234375,
+            "pnl": 25.97998046875
+        },
+        {
+            "date": "2024-11-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 427.989990234375
+        },
+        {
+            "date": "2024-11-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 422.989990234375,
+            "pnl": -10.0
+        },
+        {
+            "date": "2024-11-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 422.989990234375
+        },
+        {
+            "date": "2024-12-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 239.58999633789065,
+            "pnl": 26.880004882812614
+        },
+        {
+            "date": "2024-12-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 239.58999633789065
+        },
+        {
+            "date": "2024-12-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 437.4200134277344,
+            "pnl": 28.86004638671875
+        },
+        {
+            "date": "2024-12-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 437.4200134277344
+        },
+        {
+            "date": "2024-12-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.3699951171875
+        },
+        {
+            "date": "2024-12-09 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 246.75,
+            "pnl": 28.640014648437386
+        },
+        {
+            "date": "2024-12-09 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 246.75
+        },
+        {
+            "date": "2024-12-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 185.1699981689453,
+            "pnl": 54.00001525878906
+        },
+        {
+            "date": "2024-12-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 185.1699981689453
+        },
+        {
+            "date": "2024-12-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 448.989990234375,
+            "pnl": 23.13995361328125
+        },
+        {
+            "date": "2024-12-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 195.3999938964844,
+            "pnl": 51.149978637695426
+        },
+        {
+            "date": "2024-12-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 448.989990234375
+        },
+        {
+            "date": "2024-12-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 195.3999938964844
+        },
+        {
+            "date": "2024-12-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.9600067138672,
+            "pnl": -17.19993591308605
+        },
+        {
+            "date": "2024-12-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 191.9600067138672
+        },
+        {
+            "date": "2024-12-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 189.82000732421875,
+            "pnl": -10.699996948242188
+        },
+        {
+            "date": "2024-12-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 189.82000732421875
+        },
+        {
+            "date": "2024-12-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 196.66000366210935,
+            "pnl": 34.19998168945301
+        },
+        {
+            "date": "2024-12-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 196.66000366210935
+        },
+        {
+            "date": "2024-12-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 253.47999572753903,
+            "pnl": 26.919982910156136
+        },
+        {
+            "date": "2024-12-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 3,
+            "price": 253.47999572753903
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 437.3900146484375,
+            "pnl": -23.199951171875
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 188.3999938964844,
+            "pnl": -41.30004882812477
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 3,
+            "price": 248.0500030517578,
+            "pnl": -16.289978027343636
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 4,
+            "price": 248.0500030517578
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 2,
+            "price": 437.3900146484375
+        },
+        {
+            "date": "2024-12-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 188.3999938964844
+        },
+        {
+            "date": "2024-12-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 4,
+            "price": 254.4900054931641,
+            "pnl": 25.760009765625114
+        },
+        {
+            "date": "2024-12-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 3,
+            "price": 254.4900054931641
+        },
+        {
+            "date": "2024-12-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 194.6300048828125,
+            "pnl": 31.15005493164051
+        },
+        {
+            "date": "2024-12-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 5,
+            "price": 194.6300048828125
+        },
+        {
+            "date": "2024-12-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 2,
+            "price": 430.5299987792969,
+            "pnl": -13.72003173828125
+        },
+        {
+            "date": "2024-12-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 5,
+            "price": 191.2400054931641,
+            "pnl": -16.949996948242074
+        }
+    ],
+    "daily_returns": [
+        10000,
+        10968.099975585938,
+        10004.400024414062,
+        9998.000030517578,
+        10011.050033569336,
+        10014.150009155273,
+        10009.95002746582,
+        9994.800033569336,
+        9031.900024414062,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        9987.750015258789,
+        12800.939956665039,
+        9016.370101928711,
+        9945.01010131836,
+        9971.190063476562,
+        10914.720153808594,
+        10022.080169677734,
+        10022.120132446289,
+        10029.200210571289,
+        10029.200210571289,
+        10045.840118408203,
+        10000.710220336914,
+        9082.850112915039,
+        9991.570129394531,
+        9668.420120239258,
+        10314.730072021484,
+        10005.420181274414,
+        9684.370208740234,
+        10331.430114746094,
+        10003.400192260742,
+        10000.980087280273,
+        8048.750152587891,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        9947.240158081055,
+        10893.920196533203,
+        10820.600189208984,
+        10958.300170898438,
+        9997.580108642578,
+        9987.770095825195,
+        10024.340148925781,
+        10014.05012512207,
+        9983.190139770508,
+        10009.450164794922,
+        10004.20004272461,
+        9979.480056762695,
+        9979.740127563477,
+        8124.2401123046875,
+        9945.790161132812,
+        9949.420135498047,
+        9639.170166015625,
+        10282.170196533203,
+        9960.040130615234,
+        9645.23013305664,
+        9984.140106201172,
+        10000.060150146484,
+        10892.410186767578,
+        10008.920043945312,
+        10029.280075073242,
+        10050.23013305664,
+        10983.800094604492,
+        10042.300186157227,
+        10096.660095214844,
+        10079.180099487305,
+        10110.270080566406,
+        10118.92008972168,
+        10156.590133666992,
+        10132.510131835938,
+        10163.070114135742,
+        10155.32014465332,
+        10178.870162963867,
+        10178.870162963867,
+        10158.73013305664,
+        10158.230087280273,
+        10174.990097045898,
+        10146.670150756836,
+        9204.760116577148,
+        9381.100143432617,
+        10121.070098876953,
+        9173.920135498047,
+        10141.020126342773,
+        10141.020126342773,
+        11119.57015991211,
+        9162.470092773438,
+        10128.370056152344,
+        11118.17008972168,
+        10129.120025634766,
+        10126.420059204102,
+        11068.620040893555,
+        10129.219970703125,
+        10130.499984741211,
+        10144.309951782227,
+        9178.400039672852,
+        10146.40007019043,
+        10146.610061645508,
+        10138.559997558594,
+        10137.580001831055,
+        10133.800048828125,
+        10133.800048828125,
+        10123.160018920898,
+        10128.410018920898,
+        9155.970031738281,
+        10110.70002746582,
+        10110.70002746582,
+        10110.70002746582,
+        11872.199996948242,
+        10113.020080566406,
+        10124.690017700195,
+        10124.690017700195,
+        10127.17007446289,
+        10118.430068969727,
+        11084.45004272461,
+        10039.470077514648,
+        10190.840087890625,
+        10208.36994934082,
+        10222.250015258789,
+        10244.239990234375,
+        10235.530029296875,
+        10251.579986572266,
+        10218.570037841797,
+        8347.59001159668,
+        10122.590042114258,
+        10137.47004699707,
+        10126.330032348633,
+        10126.010025024414,
+        10143.130020141602,
+        10143.250015258789,
+        10156.130020141602,
+        10145.550064086914,
+        9315.030044555664,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10127.670059204102,
+        10958.670059204102,
+        10126.51008605957,
+        9296.670059204102,
+        10101.97004699707,
+        10101.97004699707,
+        10101.97004699707,
+        10101.97004699707,
+        10101.97004699707,
+        11080.5,
+        10832.48013305664,
+        10237.200073242188,
+        10864.24008178711,
+        10159.400100708008,
+        10190.250137329102,
+        10155.19009399414,
+        10177.500091552734,
+        10154.39013671875,
+        10149.870101928711,
+        10168.63003540039,
+        9316.980026245117,
+        10158.420028686523,
+        10178.53012084961,
+        10167.000061035156,
+        10173.210052490234,
+        10142.720123291016,
+        10158.340103149414,
+        10166.790115356445,
+        10183.390121459961,
+        10171.180084228516,
+        10227.100082397461,
+        10224.570083618164,
+        10188.050109863281,
+        9321.840057373047,
+        11015.160125732422,
+        10173.600051879883,
+        9326.880096435547,
+        10165.020111083984,
+        9227.340118408203,
+        10176.900085449219,
+        11026.350082397461,
+        11033.700088500977,
+        10332.100067138672,
+        10129.880111694336,
+        10131.21012878418,
+        10166.42007446289,
+        10221.890167236328,
+        11045.780197143555,
+        10061.40005493164,
+        10227.400161743164,
+        10243.010177612305,
+        10233.700057983398,
+        10250.26008605957,
+        10267.690032958984,
+        10303.030044555664,
+        10307.800018310547,
+        10315.7900390625,
+        10336.20004272461,
+        10354.800170898438,
+        10343.160064697266,
+        9434.1201171875,
+        10323.69009399414,
+        10323.69009399414,
+        10324.060150146484,
+        10323.26010131836,
+        8513.470108032227,
+        10299.26010131836,
+        10299.26010131836,
+        10299.26010131836,
+        11278.610076904297,
+        10292.310104370117,
+        10304.360122680664,
+        9319.910125732422,
+        11979.47006225586,
+        10325.950164794922,
+        10331.670135498047,
+        10326.650177001953,
+        10354.970123291016,
+        10341.390106201172,
+        10341.390106201172,
+        10321.670135498047,
+        10321.07015991211,
+        10319.450164794922,
+        11249.880187988281,
+        9495.120178222656,
+        10357.150177001953,
+        10329.05014038086,
+        10352.810195922852,
+        11250.240188598633,
+        10380.16015625,
+        10380.16015625,
+        10436.80014038086,
+        10432.23013305664,
+        10422.020095825195,
+        10463.640075683594,
+        9481.4501953125,
+        10400.230163574219,
+        10422.970123291016,
+        10411.600173950195,
+        9468.240173339844,
+        9457.820175170898,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        10354.540145874023,
+        12095.48014831543,
+        11332.500198364258,
+        10215.810089111328,
+        10394.050018310547,
+        10385.64013671875,
+        9531.730072021484,
+        11356.17008972168,
+        10360.450119018555,
+        10355.67008972168,
+        8533.75016784668,
+        11171.490158081055,
+        11330.410263061523,
+        10350.130233764648,
+        10273.690200805664,
+        10259.470169067383,
+        10269.310256958008,
+        8502.850204467773,
+        10212.13020324707,
+        10156.890213012695,
+        10226.61018371582,
+        10234.530166625977,
+        10241.710159301758,
+        11191.57014465332,
+        10258.390213012695,
+        10252.650161743164,
+        10282.390182495117,
+        11197.05012512207,
+        10263.370254516602,
+        10260.930160522461,
+        10258.010177612305,
+        10268.450180053711,
+        10270.270126342773,
+        10307.070205688477,
+        9426.150253295898,
+        10263.030197143555,
+        10258.590194702148,
+        10270.310195922852,
+        9338.630172729492,
+        10233.790237426758,
+        10218.670211791992,
+        11136.150192260742,
+        10220.990280151367,
+        10246.310287475586,
+        10259.510299682617,
+        10249.430252075195,
+        10237.530166625977,
+        10251.870223999023,
+        10261.69026184082,
+        11120.650253295898,
+        10225.250198364258,
+        10224.390274047852,
+        10249.890243530273,
+        10096.710189819336,
+        10290.030197143555,
+        10300.810272216797,
+        8498.600219726562,
+        10215.840209960938,
+        10205.590270996094,
+        10208.090270996094,
+        10241.940216064453,
+        10263.140243530273,
+        11096.220291137695,
+        10252.080276489258,
+        10268.470199584961,
+        10259.110275268555,
+        10245.990264892578,
+        10206.76025390625,
+        11134.410278320312,
+        9350.930221557617,
+        10239.810165405273,
+        10232.650192260742,
+        10246.310165405273,
+        10261.890182495117,
+        10289.050155639648,
+        10278.530136108398,
+        10278.530136108398,
+        10289.070175170898,
+        10313.150192260742,
+        10325.830184936523,
+        11211.560165405273,
+        10341.580169677734,
+        10353.030242919922,
+        10376.870162963867,
+        10424.570190429688,
+        10481.920181274414,
+        10471.740264892578,
+        10457.140243530273,
+        10511.620193481445,
+        10267.440170288086,
+        10683.440216064453,
+        10442.180145263672,
+        10220.130249023438,
+        10490.360244750977,
+        10514.710220336914,
+        10514.710220336914,
+        10512.18017578125,
+        9611.470169067383,
+        9498.560195922852,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672,
+        10454.760223388672
+    ],
+    "peak_value": 12800.939956665039,
+    "metrics": {
+        "total_trades": 185,
+        "winning_trades": 87,
+        "losing_trades": 98,
+        "avg_profit_per_trade": 2.4952986433699342,
+        "max_consecutive_wins": 6,
+        "max_consecutive_losses": 6,
+        "avg_trade_duration": 4.767567567567568,
+        "profit_factor": 1.2651691432989367,
+        "expectancy": 2.4952986433699405,
+        "annualized_return": 0.02165957394329987,
+        "volatility": 0.945087734978357,
+        "sortino_ratio": 0.031992440122502804,
+        "calmar_ratio": 0.09845960918961556,
+        "max_drawdown": 0.371237566941546,
+        "avg_drawdown": 0.19186703180916484,
+        "recovery_factor": Infinity,
+        "risk_reward_ratio": 0.03080070418941981,
+        "model_performance": {
+            "mse": 71545.00516160367,
+            "mae": 244.7373988158321,
+            "prediction_accuracy": 0.0010214738262508405
+        }
+    }
+}

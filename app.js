@@ -16,6 +16,8 @@ const MySQLStore = require("express-mysql-session")(session);
 
 const app = express();
 
+app.set("trust proxy", true);
+
 // Security middleware
 app.use(
   helmet({

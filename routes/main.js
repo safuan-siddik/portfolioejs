@@ -467,11 +467,12 @@ router.get("/search", isAuthenticated, async (req, res) => {
 
 // Trading Bot Project page
 router.get("/trading-bot", (req, res) => {
-  res.render("trading-bot");
+  res.redirect("http://localhost:8501");
 });
 
 // Trading Bot API endpoints
 router.get("/api/trading-bot/backtest", (req, res) => {
+  console.log("Reached /api/trading-bot/backtest endpoint");
   // Here we'll add the backtest results endpoint
   res.json({
     success: true,

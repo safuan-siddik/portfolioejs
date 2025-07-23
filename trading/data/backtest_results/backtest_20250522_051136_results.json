@@ -1,0 +1,2233 @@
+{
+    "backtest_id": "backtest_20250522_051136",
+    "start_date": "2022-01-01",
+    "end_date": "2022-12-31",
+    "initial_capital": 10000,
+    "final_capital": 10000,
+    "cash": 9760.32349395752,
+    "positions": {},
+    "trades": [
+        {
+            "date": "2022-03-01 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 294.95001220703125
+        },
+        {
+            "date": "2022-03-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 134.57150268554688
+        },
+        {
+            "date": "2022-03-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 289.8599853515625,
+            "pnl": -15.27008056640625
+        },
+        {
+            "date": "2022-03-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 131.906494140625,
+            "pnl": -18.655059814453125
+        },
+        {
+            "date": "2022-03-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 133.4199981689453
+        },
+        {
+            "date": "2022-03-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 129.87049865722656,
+            "pnl": -24.84649658203125
+        },
+        {
+            "date": "2022-03-16 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 294.3900146484375
+        },
+        {
+            "date": "2022-03-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 133.28050231933594
+        },
+        {
+            "date": "2022-03-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 300.42999267578125,
+            "pnl": 18.11993408203125
+        },
+        {
+            "date": "2022-03-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 136.12550354003906,
+            "pnl": 19.915008544921875
+        },
+        {
+            "date": "2022-03-18 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 163.97999572753906
+        },
+        {
+            "date": "2022-03-18 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 300.42999267578125
+        },
+        {
+            "date": "2022-03-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 136.12550354003906
+        },
+        {
+            "date": "2022-03-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 168.82000732421875,
+            "pnl": 29.040069580078125
+        },
+        {
+            "date": "2022-03-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 139.8679962158203,
+            "pnl": 26.19744873046875
+        },
+        {
+            "date": "2022-03-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 168.82000732421875
+        },
+        {
+            "date": "2022-03-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 139.8679962158203
+        },
+        {
+            "date": "2022-03-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 138.27549743652344,
+            "pnl": -11.147491455078125
+        },
+        {
+            "date": "2022-03-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.27549743652344
+        },
+        {
+            "date": "2022-03-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 174.07000732421875,
+            "pnl": 26.25
+        },
+        {
+            "date": "2022-03-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 141.57200622558594,
+            "pnl": 23.0755615234375
+        },
+        {
+            "date": "2022-03-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.07000732421875
+        },
+        {
+            "date": "2022-03-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 141.57200622558594
+        },
+        {
+            "date": "2022-03-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 310.70001220703125,
+            "pnl": 30.81005859375
+        },
+        {
+            "date": "2022-03-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 310.70001220703125
+        },
+        {
+            "date": "2022-03-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.9600067138672,
+            "pnl": 24.449996948242188
+        },
+        {
+            "date": "2022-03-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 178.9600067138672
+        },
+        {
+            "date": "2022-03-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 139.0675048828125,
+            "pnl": -17.531509399414062
+        },
+        {
+            "date": "2022-03-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 174.61000061035156,
+            "pnl": -21.750030517578125
+        },
+        {
+            "date": "2022-03-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 174.61000061035156
+        },
+        {
+            "date": "2022-03-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 139.0675048828125
+        },
+        {
+            "date": "2022-04-04 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 178.44000244140625,
+            "pnl": 19.150009155273438
+        },
+        {
+            "date": "2022-04-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 142.97149658203125,
+            "pnl": 27.32794189453125
+        },
+        {
+            "date": "2022-04-04 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 178.44000244140625
+        },
+        {
+            "date": "2022-04-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 6,
+            "price": 142.97149658203125
+        },
+        {
+            "date": "2022-04-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 175.05999755859375,
+            "pnl": -16.9000244140625
+        },
+        {
+            "date": "2022-04-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 6,
+            "price": 140.59100341796875,
+            "pnl": -14.282958984375
+        },
+        {
+            "date": "2022-04-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 175.05999755859375
+        },
+        {
+            "date": "2022-04-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 7,
+            "price": 140.59100341796875
+        },
+        {
+            "date": "2022-04-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 299.5,
+            "pnl": -33.60003662109375
+        },
+        {
+            "date": "2022-04-06 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 171.8300018310547,
+            "pnl": -16.149978637695312
+        },
+        {
+            "date": "2022-04-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 7,
+            "price": 136.54800415039062,
+            "pnl": -28.300994873046875
+        },
+        {
+            "date": "2022-04-06 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 171.8300018310547
+        },
+        {
+            "date": "2022-04-08 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 170.08999633789062,
+            "pnl": -8.700027465820312
+        },
+        {
+            "date": "2022-05-04 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 166.02000427246094
+        },
+        {
+            "date": "2022-05-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 289.9800109863281
+        },
+        {
+            "date": "2022-05-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 156.77000427246094,
+            "pnl": -55.5
+        },
+        {
+            "date": "2022-05-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 277.3500061035156,
+            "pnl": -37.8900146484375
+        },
+        {
+            "date": "2022-05-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 116.05049896240234
+        },
+        {
+            "date": "2022-05-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.44499969482422,
+            "pnl": -12.843994140625
+        },
+        {
+            "date": "2022-05-16 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.44499969482422
+        },
+        {
+            "date": "2022-05-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 111.89949798583984,
+            "pnl": -20.364013671875
+        },
+        {
+            "date": "2022-05-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 111.89949798583984
+        },
+        {
+            "date": "2022-05-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 110.38400268554688,
+            "pnl": -12.12396240234375
+        },
+        {
+            "date": "2022-05-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 110.38400268554688
+        },
+        {
+            "date": "2022-05-20 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 108.90799713134766,
+            "pnl": -13.284049987792969
+        },
+        {
+            "date": "2022-05-20 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 108.90799713134766
+        },
+        {
+            "date": "2022-05-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 111.48799896240234,
+            "pnl": 23.220016479492188
+        },
+        {
+            "date": "2022-05-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 111.48799896240234
+        },
+        {
+            "date": "2022-05-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 105.97000122070312,
+            "pnl": -44.14398193359375
+        },
+        {
+            "date": "2022-05-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 262.5199890136719
+        },
+        {
+            "date": "2022-05-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 273.239990234375,
+            "pnl": 32.160003662109375
+        },
+        {
+            "date": "2022-05-27 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 149.63999938964844
+        },
+        {
+            "date": "2022-05-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 273.239990234375
+        },
+        {
+            "date": "2022-05-31 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 113.76200103759766
+        },
+        {
+            "date": "2022-06-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 117.62249755859376,
+            "pnl": 30.883972167968864
+        },
+        {
+            "date": "2022-06-02 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 117.62249755859376
+        },
+        {
+            "date": "2022-06-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 145.3800048828125,
+            "pnl": -25.559967041015625
+        },
+        {
+            "date": "2022-06-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 270.0199890136719,
+            "pnl": -9.660003662109375
+        },
+        {
+            "date": "2022-06-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.54100036621094,
+            "pnl": -24.651977539062614
+        },
+        {
+            "date": "2022-06-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 270.0199890136719
+        },
+        {
+            "date": "2022-06-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.54100036621094
+        },
+        {
+            "date": "2022-06-06 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 146.13999938964844
+        },
+        {
+            "date": "2022-06-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 117.14949798583984,
+            "pnl": 20.86798095703125
+        },
+        {
+            "date": "2022-06-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 117.14949798583984
+        },
+        {
+            "date": "2022-06-09 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 264.7900085449219,
+            "pnl": -15.68994140625
+        },
+        {
+            "date": "2022-06-09 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 142.63999938964844,
+            "pnl": -21.0
+        },
+        {
+            "date": "2022-06-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.83550262451172,
+            "pnl": -18.511962890625
+        },
+        {
+            "date": "2022-06-09 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 264.7900085449219
+        },
+        {
+            "date": "2022-06-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.83550262451172
+        },
+        {
+            "date": "2022-06-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 252.9900054931641,
+            "pnl": -35.400009155273324
+        },
+        {
+            "date": "2022-06-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 111.1614990234375,
+            "pnl": -29.39202880859375
+        },
+        {
+            "date": "2022-06-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 106.39250183105467
+        },
+        {
+            "date": "2022-06-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 109.7645034790039,
+            "pnl": 30.348014831543082
+        },
+        {
+            "date": "2022-06-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 111.4875030517578
+        },
+        {
+            "date": "2022-06-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 7,
+            "price": 138.27000427246094
+        },
+        {
+            "date": "2022-06-23 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 258.8599853515625
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 117.9749984741211,
+            "pnl": 51.899963378906364
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 7,
+            "price": 141.66000366210938,
+            "pnl": 23.729995727539062
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 267.70001220703125,
+            "pnl": 26.52008056640625
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 7,
+            "price": 141.66000366210938
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 267.70001220703125
+        },
+        {
+            "date": "2022-06-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 117.9749984741211
+        },
+        {
+            "date": "2022-06-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 264.8900146484375,
+            "pnl": -8.42999267578125
+        },
+        {
+            "date": "2022-06-27 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 115.83350372314452,
+            "pnl": -17.131958007812614
+        },
+        {
+            "date": "2022-06-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 264.8900146484375
+        },
+        {
+            "date": "2022-06-27 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 115.83350372314452
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 7,
+            "price": 137.44000244140625,
+            "pnl": -29.540008544921875
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 256.4800109863281,
+            "pnl": -25.230010986328125
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 112.00749969482422,
+            "pnl": -30.608032226562386
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 7,
+            "price": 137.44000244140625
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 256.4800109863281
+        },
+        {
+            "date": "2022-06-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 112.00749969482422
+        },
+        {
+            "date": "2022-06-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 108.96299743652344,
+            "pnl": -24.35601806640625
+        },
+        {
+            "date": "2022-06-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 108.96299743652344
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 7,
+            "price": 141.55999755859375,
+            "pnl": 28.8399658203125
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 262.8500061035156,
+            "pnl": 19.1099853515625
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 113.26300048828124,
+            "pnl": 38.7000274658202
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 7,
+            "price": 141.55999755859375
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 262.8500061035156
+        },
+        {
+            "date": "2022-07-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 113.26300048828124
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 7,
+            "price": 146.35000610351562,
+            "pnl": 33.530059814453125
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 268.3999938964844,
+            "pnl": 16.64996337890625
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 118.78299713134766,
+            "pnl": 44.159973144531364
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 146.35000610351562
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 268.3999938964844
+        },
+        {
+            "date": "2022-07-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 118.78299713134766
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 144.8699951171875,
+            "pnl": -8.88006591796875
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 264.510009765625,
+            "pnl": -11.669952392578125
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 115.67649841308594,
+            "pnl": -24.85198974609375
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 144.8699951171875
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 264.510009765625
+        },
+        {
+            "date": "2022-07-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 115.67649841308594
+        },
+        {
+            "date": "2022-07-12 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 253.6699981689453,
+            "pnl": -32.52003479003906
+        },
+        {
+            "date": "2022-07-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.02050018310548,
+            "pnl": -13.247985839843636
+        },
+        {
+            "date": "2022-07-12 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.02050018310548
+        },
+        {
+            "date": "2022-07-13 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 111.35350036621094,
+            "pnl": -21.335998535156364
+        },
+        {
+            "date": "2022-07-14 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 148.47000122070312,
+            "pnl": 21.60003662109375
+        },
+        {
+            "date": "2022-07-14 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 148.47000122070312
+        },
+        {
+            "date": "2022-07-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 153.0399932861328,
+            "pnl": 27.419952392578125
+        },
+        {
+            "date": "2022-07-20 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 153.0399932861328
+        },
+        {
+            "date": "2022-07-20 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 262.2699890136719
+        },
+        {
+            "date": "2022-07-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.33999633789062
+        },
+        {
+            "date": "2022-07-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 107.9000015258789,
+            "pnl": -51.51995849609375
+        },
+        {
+            "date": "2022-07-25 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 258.8299865722656,
+            "pnl": -10.32000732421875
+        },
+        {
+            "date": "2022-07-27 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 156.7899932861328,
+            "pnl": 22.5
+        },
+        {
+            "date": "2022-07-27 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 156.7899932861328
+        },
+        {
+            "date": "2022-07-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 268.739990234375
+        },
+        {
+            "date": "2022-07-27 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 113.05999755859376
+        },
+        {
+            "date": "2022-07-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 276.4100036621094,
+            "pnl": 23.010040283203125
+        },
+        {
+            "date": "2022-07-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 276.4100036621094
+        },
+        {
+            "date": "2022-07-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 162.50999450683594,
+            "pnl": 34.32000732421875
+        },
+        {
+            "date": "2022-07-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 116.31999969482422,
+            "pnl": 26.080017089843636
+        },
+        {
+            "date": "2022-07-29 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 162.50999450683594
+        },
+        {
+            "date": "2022-07-29 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 116.31999969482422
+        },
+        {
+            "date": "2022-08-01 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.86000061035156,
+            "pnl": -11.67999267578125
+        },
+        {
+            "date": "2022-08-01 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 114.86000061035156
+        },
+        {
+            "date": "2022-08-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 160.00999450683594,
+            "pnl": -15.0
+        },
+        {
+            "date": "2022-08-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 160.00999450683594
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 282.4700012207031,
+            "pnl": 18.17999267578125
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 118.08000183105467,
+            "pnl": 25.760009765624886
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 166.1300048828125,
+            "pnl": 36.720062255859375
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 166.1300048828125
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 282.4700012207031
+        },
+        {
+            "date": "2022-08-03 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 118.08000183105467
+        },
+        {
+            "date": "2022-08-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 116.62999725341795,
+            "pnl": -11.60003662109375
+        },
+        {
+            "date": "2022-08-09 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 116.62999725341795
+        },
+        {
+            "date": "2022-08-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 289.1600036621094,
+            "pnl": 20.07000732421875
+        },
+        {
+            "date": "2022-08-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 119.6999969482422,
+            "pnl": 24.559997558593977
+        },
+        {
+            "date": "2022-08-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 289.1600036621094
+        },
+        {
+            "date": "2022-08-10 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 119.6999969482422
+        },
+        {
+            "date": "2022-08-12 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 172.10000610351562,
+            "pnl": 35.82000732421875
+        },
+        {
+            "date": "2022-08-12 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 5,
+            "price": 172.10000610351562
+        },
+        {
+            "date": "2022-08-19 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 286.1499938964844,
+            "pnl": -9.030029296875
+        },
+        {
+            "date": "2022-08-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 117.20999908447266,
+            "pnl": -19.919982910156364
+        },
+        {
+            "date": "2022-08-19 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 286.1499938964844
+        },
+        {
+            "date": "2022-08-19 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 8,
+            "price": 117.20999908447266
+        },
+        {
+            "date": "2022-08-22 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 5,
+            "price": 167.57000732421875,
+            "pnl": -22.649993896484375
+        },
+        {
+            "date": "2022-08-22 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 277.75,
+            "pnl": -25.199981689453125
+        },
+        {
+            "date": "2022-08-22 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 8,
+            "price": 114.23999786376952,
+            "pnl": -23.760009765625114
+        },
+        {
+            "date": "2022-10-03 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 240.7400054931641
+        },
+        {
+            "date": "2022-10-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 248.8800048828125,
+            "pnl": 32.559997558593636
+        },
+        {
+            "date": "2022-10-04 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 248.8800048828125
+        },
+        {
+            "date": "2022-10-04 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 101.63999938964844
+        },
+        {
+            "date": "2022-10-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 234.2400054931641,
+            "pnl": -58.559997558593636
+        },
+        {
+            "date": "2022-10-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 98.68000030517578,
+            "pnl": -26.639991760253906
+        },
+        {
+            "date": "2022-10-07 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 234.2400054931641
+        },
+        {
+            "date": "2022-10-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 98.68000030517578
+        },
+        {
+            "date": "2022-10-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 229.25,
+            "pnl": -19.960021972656364
+        },
+        {
+            "date": "2022-10-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 229.25
+        },
+        {
+            "date": "2022-10-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 97.18000030517578,
+            "pnl": -15.0
+        },
+        {
+            "date": "2022-10-11 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 225.41000366210935,
+            "pnl": -15.359985351562614
+        },
+        {
+            "date": "2022-10-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 97.18000030517578
+        },
+        {
+            "date": "2022-10-17 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 99.97000122070312,
+            "pnl": 27.900009155273438
+        },
+        {
+            "date": "2022-10-17 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 7,
+            "price": 142.41000366210938
+        },
+        {
+            "date": "2022-10-17 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 237.52999877929688
+        },
+        {
+            "date": "2022-10-17 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 99.97000122070312
+        },
+        {
+            "date": "2022-10-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 7,
+            "price": 147.27000427246094,
+            "pnl": 34.02000427246094
+        },
+        {
+            "date": "2022-10-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 147.27000427246094
+        },
+        {
+            "date": "2022-10-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 247.25,
+            "pnl": 38.8800048828125
+        },
+        {
+            "date": "2022-10-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 102.5199966430664,
+            "pnl": 25.499954223632812
+        },
+        {
+            "date": "2022-10-24 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 247.25
+        },
+        {
+            "date": "2022-10-24 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 102.5199966430664
+        },
+        {
+            "date": "2022-10-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 152.33999633789062,
+            "pnl": 30.419952392578125
+        },
+        {
+            "date": "2022-10-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 152.33999633789062
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 231.32000732421875,
+            "pnl": -63.719970703125
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 94.93000030517578,
+            "pnl": -68.30996704101562
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 149.35000610351562,
+            "pnl": -17.93994140625
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 149.35000610351562
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 231.32000732421875
+        },
+        {
+            "date": "2022-10-26 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 94.93000030517578
+        },
+        {
+            "date": "2022-10-27 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 144.8000030517578,
+            "pnl": -27.300018310546875
+        },
+        {
+            "date": "2022-10-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 226.75,
+            "pnl": -18.280029296875
+        },
+        {
+            "date": "2022-10-27 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 92.22000122070312,
+            "pnl": -27.099990844726562
+        },
+        {
+            "date": "2022-10-27 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 144.8000030517578
+        },
+        {
+            "date": "2022-10-27 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 226.75
+        },
+        {
+            "date": "2022-10-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 155.74000549316406,
+            "pnl": 65.6400146484375
+        },
+        {
+            "date": "2022-10-28 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 235.8699951171875,
+            "pnl": 36.47998046875
+        },
+        {
+            "date": "2022-10-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 155.74000549316406
+        },
+        {
+            "date": "2022-10-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 153.33999633789062,
+            "pnl": -14.400054931640625
+        },
+        {
+            "date": "2022-10-31 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 153.33999633789062
+        },
+        {
+            "date": "2022-11-01 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 150.64999389648438,
+            "pnl": -16.1400146484375
+        },
+        {
+            "date": "2022-11-01 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 150.64999389648438
+        },
+        {
+            "date": "2022-11-02 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 145.02999877929688,
+            "pnl": -33.719970703125
+        },
+        {
+            "date": "2022-11-10 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 242.97999572753903
+        },
+        {
+            "date": "2022-11-11 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 149.6999969482422
+        },
+        {
+            "date": "2022-11-11 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 96.41000366210938
+        },
+        {
+            "date": "2022-11-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 98.44000244140624,
+            "pnl": 20.299987792968636
+        },
+        {
+            "date": "2022-11-15 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 98.44000244140624
+        },
+        {
+            "date": "2022-11-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 97.43000030517578,
+            "pnl": -10.100021362304574
+        },
+        {
+            "date": "2022-11-18 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 97.43000030517578
+        },
+        {
+            "date": "2022-11-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 148.00999450683594,
+            "pnl": -10.1400146484375
+        },
+        {
+            "date": "2022-11-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 95.5999984741211,
+            "pnl": -18.300018310546875
+        },
+        {
+            "date": "2022-11-21 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 148.00999450683594
+        },
+        {
+            "date": "2022-11-21 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 95.5999984741211
+        },
+        {
+            "date": "2022-11-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 151.07000732421875,
+            "pnl": 18.360076904296875
+        },
+        {
+            "date": "2022-11-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 98.45999908447266,
+            "pnl": 28.600006103515625
+        },
+        {
+            "date": "2022-11-23 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 151.07000732421875
+        },
+        {
+            "date": "2022-11-23 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 98.45999908447266
+        },
+        {
+            "date": "2022-11-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 148.11000061035156,
+            "pnl": -17.760040283203125
+        },
+        {
+            "date": "2022-11-25 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 97.45999908447266,
+            "pnl": -10.0
+        },
+        {
+            "date": "2022-11-25 00:00:00",
+            "symbol": "AAPL",
+            "action": "buy",
+            "shares": 6,
+            "price": 148.11000061035156
+        },
+        {
+            "date": "2022-11-25 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 97.45999908447266
+        },
+        {
+            "date": "2022-11-28 00:00:00",
+            "symbol": "AAPL",
+            "action": "sell",
+            "shares": 6,
+            "price": 144.22000122070312,
+            "pnl": -23.339996337890625
+        },
+        {
+            "date": "2022-11-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 96.0500030517578,
+            "pnl": -14.099960327148551
+        },
+        {
+            "date": "2022-11-28 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 96.0500030517578
+        },
+        {
+            "date": "2022-11-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 240.3300018310547,
+            "pnl": -10.599975585937386
+        },
+        {
+            "date": "2022-11-29 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 240.3300018310547
+        },
+        {
+            "date": "2022-11-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 100.98999786376952,
+            "pnl": 49.39994812011719
+        },
+        {
+            "date": "2022-11-30 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 255.13999938964844,
+            "pnl": 59.239990234375
+        },
+        {
+            "date": "2022-11-30 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 255.13999938964844
+        },
+        {
+            "date": "2022-11-30 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 9,
+            "price": 100.98999786376952
+        },
+        {
+            "date": "2022-12-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 250.1999969482422,
+            "pnl": -14.82000732421875
+        },
+        {
+            "date": "2022-12-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 9,
+            "price": 99.4800033569336,
+            "pnl": -13.589950561523324
+        },
+        {
+            "date": "2022-12-05 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 250.1999969482422
+        },
+        {
+            "date": "2022-12-05 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 99.4800033569336
+        },
+        {
+            "date": "2022-12-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 245.1199951171875,
+            "pnl": -15.240005493164062
+        },
+        {
+            "date": "2022-12-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 96.9800033569336,
+            "pnl": -25.0
+        },
+        {
+            "date": "2022-12-06 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 245.1199951171875
+        },
+        {
+            "date": "2022-12-06 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 96.9800033569336
+        },
+        {
+            "date": "2022-12-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 94.94000244140624,
+            "pnl": -20.40000915527355
+        },
+        {
+            "date": "2022-12-07 00:00:00",
+            "symbol": "GOOGL",
+            "action": "buy",
+            "shares": 10,
+            "price": 94.94000244140624
+        },
+        {
+            "date": "2022-12-08 00:00:00",
+            "symbol": "GOOGL",
+            "action": "sell",
+            "shares": 10,
+            "price": 93.70999908447266,
+            "pnl": -12.300033569335824
+        },
+        {
+            "date": "2022-12-12 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 252.50999450683597,
+            "pnl": 29.559997558593864
+        },
+        {
+            "date": "2022-12-12 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 3,
+            "price": 252.50999450683597
+        },
+        {
+            "date": "2022-12-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 3,
+            "price": 249.00999450683597,
+            "pnl": -10.5
+        },
+        {
+            "date": "2022-12-15 00:00:00",
+            "symbol": "MSFT",
+            "action": "buy",
+            "shares": 4,
+            "price": 249.00999450683597
+        },
+        {
+            "date": "2022-12-16 00:00:00",
+            "symbol": "MSFT",
+            "action": "sell",
+            "shares": 4,
+            "price": 244.69000244140625,
+            "pnl": -17.279968261718864
+        }
+    ],
+    "daily_returns": [
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10000,
+        10884.850036621094,
+        10957.720489501953,
+        9998.206024169922,
+        8173.149444580078,
+        9966.07485961914,
+        9966.07485961914,
+        10900.014846801758,
+        9959.141403198242,
+        9032.134872436523,
+        9941.22836303711,
+        9941.22836303711,
+        11757.361923217773,
+        9947.627838134766,
+        10963.143280029297,
+        9983.68537902832,
+        9876.570831298828,
+        10027.483322143555,
+        10083.688934326172,
+        10086.385848999023,
+        10110.323440551758,
+        10148.603332519531,
+        10134.034362792969,
+        10081.487365722656,
+        10090.898345947266,
+        10004.973831176758,
+        10245.083358764648,
+        8171.565338134766,
+        10027.451354980469,
+        9166.751358032227,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        10017.20133972168,
+        11883.26139831543,
+        8151.14128112793,
+        9923.811325073242,
+        9923.811325073242,
+        9923.811325073242,
+        9923.811325073242,
+        9923.811325073242,
+        10852.215316772461,
+        9910.967330932617,
+        9927.191329956055,
+        9890.603317260742,
+        9988.863357543945,
+        9865.195304870605,
+        9776.927322387695,
+        8996.511329650879,
+        10631.83130645752,
+        9854.411354064941,
+        10774.271339416504,
+        9876.431343078613,
+        10777.617347717285,
+        9869.431434631348,
+        9920.755348205566,
+        8975.16333770752,
+        10738.709419250488,
+        9891.171424865723,
+        9880.757453918457,
+        8957.26944732666,
+        8100.055397033691,
+        10705.849922180176,
+        9751.224388122559,
+        8790.784889221191,
+        9778.665420532227,
+        9778.665420532227,
+        9778.665420532227,
+        9778.665420532227,
+        10670.565444946289,
+        11529.171356201172,
+        9880.815460205078,
+        9855.253509521484,
+        9769.875457763672,
+        9791.297409057617,
+        9850.49235534668,
+        9763.219848632812,
+        9763.219848632812,
+        9718.90641784668,
+        9862.24136352539,
+        9780.159408569336,
+        9932.993392944336,
+        9881.107406616211,
+        9080.269424438477,
+        8926.895446777344,
+        9835.603424072266,
+        9845.803405761719,
+        9827.20346069336,
+        9850.783416748047,
+        10649.83334350586,
+        10799.313446044922,
+        8948.873413085938,
+        9024.15347290039,
+        9792.543487548828,
+        11534.383361816406,
+        9859.333557128906,
+        9920.083435058594,
+        9894.213500976562,
+        9877.803466796875,
+        9961.073547363281,
+        9963.573486328125,
+        9952.833557128906,
+        9940.823516845703,
+        9941.703430175781,
+        10012.76351928711,
+        9994.963470458984,
+        9881.913543701172,
+        10067.343536376953,
+        10061.223449707031,
+        10047.453567504883,
+        10046.963500976562,
+        9998.073501586914,
+        7344.343505859375,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        9929.363525390625,
+        10892.323547363281,
+        10876.683517456055,
+        9961.313499450684,
+        9951.583465576172,
+        9975.403533935547,
+        9848.563514709473,
+        8924.763511657715,
+        9830.203498840332,
+        9845.203498840332,
+        9820.203498840332,
+        11801.293556213379,
+        9875.563468933105,
+        9856.853462219238,
+        9855.64348602295,
+        9771.013481140137,
+        9863.263458251953,
+        10014.403526306152,
+        9928.083572387695,
+        8838.27352142334,
+        8919.113548278809,
+        9848.193473815918,
+        9832.05345916748,
+        8928.153495788574,
+        9798.333488464355,
+        9798.333488464355,
+        9798.333488464355,
+        9798.333488464355,
+        9798.333488464355,
+        10770.253471374512,
+        11677.153526306152,
+        9776.993461608887,
+        9816.633476257324,
+        9812.273414611816,
+        9818.753471374512,
+        9811.03345489502,
+        9776.37345123291,
+        9815.813468933105,
+        9845.45352935791,
+        9845.45352935791,
+        9817.333503723145,
+        8891.653495788574,
+        9742.653526306152,
+        9503.763473510742,
+        9858.543479919434,
+        9854.583526611328,
+        9930.963516235352,
+        10036.363502502441,
+        9767.84349822998,
+        8830.563468933105,
+        9759.743476867676,
+        9535.593467712402,
+        9801.333518981934,
+        9802.23348236084,
+        10026.613456726074,
+        8781.563484191895,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752,
+        9760.32349395752
+    ],
+    "peak_value": 11883.26139831543,
+    "metrics": {
+        "total_trades": 129,
+        "winning_trades": 50,
+        "losing_trades": 79,
+        "avg_profit_per_trade": -1.8579574111820192,
+        "max_consecutive_wins": 6,
+        "max_consecutive_losses": 12,
+        "avg_trade_duration": 3.2325581395348837,
+        "profit_factor": 0.860453008547887,
+        "expectancy": -1.857957411182019,
+        "annualized_return": -0.023238821579599778,
+        "volatility": 1.1682752969548804,
+        "sortino_ratio": 0.03810753764128112,
+        "calmar_ratio": 0.13072634603642624,
+        "max_drawdown": 0.38195893705573886,
+        "avg_drawdown": 0.13591796293525552,
+        "recovery_factor": Infinity,
+        "risk_reward_ratio": 0.03514292381728938,
+        "model_performance": {
+            "mse": 1484.4045958345482,
+            "mae": 33.76627083403276,
+            "prediction_accuracy": 0.8015566881261376
+        }
+    }
+}
